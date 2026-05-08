@@ -171,6 +171,26 @@
                                 "MD5": "09464464e54df9838666d62cf151c2c0",
                                 "url": "https://maven.minecraftforge.net/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar"
                             }
+                        },
+                        {
+                            "id": "cpw.mods:modlauncher:10.0.9",
+                            "name": "Mod Launcher",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 130343,
+                                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                                "url": "https://maven.minecraftforge.net/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0",
+                            "name": "FML Early Display",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 170830,
+                                "MD5": "572320060e2c3105df15da32091de640",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar"
+                            }
                         }
                     ]
                 }
