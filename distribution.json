@@ -30,7 +30,19 @@
                         "size": 6021040,
                         "MD5": "ee3ca303001d1e856558b75b2a5854f1",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.3.0:version-manifest",
+                            "name": "Forge Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 16542,
+                                "MD5": "826cb4d525749099af9ecb33b732fb84",
+                                "url": "https://raw.githubusercontent.com/NBLix1/Euphoria-Town/main/forge-1.20.1-47.3.0-version.json"
+                            }
+                        }
+                    ]
                 }
             ]
         }
