@@ -9,7 +9,7 @@
         {
             "id": "EuphoriaTown-1.20.1",
             "name": "Euphoria Town (Minecraft 1.20.1)",
-            "description": "Euphoria Town - Minecraft 1.20.1",
+            "description": "Euphoria Town - Minecraft 1.20.1 (Forge v47.3.0)",
             "icon": "https://i.imgur.com/SealCircle.png",
             "version": "1.0.0",
             "address": "EuphoriaTown.aternos.me",
@@ -27,7 +27,8 @@
                     "name": "Minecraft Forge 1.20.1",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 0,
+                        "size": 6021040,
+                        "MD5": "ee3ca303001d1e856558b75b2a5854f1",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar"
                     }
                 }
