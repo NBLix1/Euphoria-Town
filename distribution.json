@@ -121,6 +121,56 @@
                                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
                                 "url": "https://maven.minecraftforge.net/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
                             }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlloader:1.20.1-47.3.0",
+                            "name": "FML Loader",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 264538,
+                                "MD5": "cad68c5d61009b7e94fac7150f3f1dcf",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlcore:1.20.1-47.3.0",
+                            "name": "FML Core",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 118685,
+                                "MD5": "2eef1c9adb09cc3592e5e7185c90570c9",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.0",
+                            "name": "Java FML Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 16516,
+                                "MD5": "f457a3acdf187aa53ca5cbac9a951fcf",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.0",
+                            "name": "Low Code Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 7398,
+                                "MD5": "d295c4a25914cc6486c2e501ef432b18",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:mclanguage:1.20.1-47.3.0",
+                            "name": "MC Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4998,
+                                "MD5": "09464464e54df9838666d62cf151c2c0",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar"
+                            }
                         }
                     ]
                 }
