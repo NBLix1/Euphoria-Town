@@ -41,6 +41,86 @@
                                 "MD5": "826cb4d525749099af9ecb33b732fb84",
                                 "url": "https://raw.githubusercontent.com/NBLix1/Euphoria-Town/main/forge-1.20.1-47.3.0-version.json"
                             }
+                        },
+                        {
+                            "id": "cpw.mods:bootstraplauncher:1.1.2",
+                            "name": "Bootstrap Launcher",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 8284,
+                                "MD5": "48f5255aa3337344c467c0150d347813d",
+                                "url": "https://maven.minecraftforge.net/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                            }
+                        },
+                        {
+                            "id": "cpw.mods:securejarhandler:2.1.10",
+                            "name": "Secure Jar Handler",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 88749,
+                                "MD5": "d9ff48d1cc68388270388b803fa42611e",
+                                "url": "https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.7",
+                            "name": "ASM Commons",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 73426,
+                                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.7",
+                            "name": "ASM Util",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 93784,
+                                "MD5": "e7d6e20888e6fd99605f4c5fe1dffa8b0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.7",
+                            "name": "ASM Analysis",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 34776,
+                                "MD5": "910ac9c691023f1a9ff333c413ae9fbf6",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.7",
+                            "name": "ASM Tree",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51934,
+                                "MD5": "ea5cad3e0cbd2520688e4b0b5c42218e7",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.7",
+                            "name": "ASM",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 125428,
+                                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+                            "name": "JarJar File Systems",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 32195,
+                                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                            }
                         }
                     ]
                 }
